@@ -1,0 +1,30 @@
+10:10:09 INFO ====== WebDriver manager ======
+10:10:10 INFO Get LATEST chromedriver version for google-chrome
+10:10:11 INFO Get LATEST chromedriver version for google-chrome
+10:10:11 INFO Driver [D:\Users\Танюлик\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+10:10:12 INFO Test 1 starting
+10:10:15 INFO Send test to element //*[@id="login"]/div[1]/label/input
+10:10:15 INFO Send test to element //*[@id="login"]/div[2]/label/input
+10:10:16 INFO Click to element //*[@id="login"]/div[3]/button
+10:10:17 INFO We find 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+10:10:17 INFO Test 2 starting
+10:10:17 INFO Send 33333333333 to element //*[@id="login"]/div[1]/label/input
+10:10:17 INFO Send d86641a418 to element //*[@id="login"]/div[2]/label/input
+10:10:17 INFO Click to element //*[@id="login"]/div[3]/button
+10:10:18 INFO We find Blog in error field //*[@id="app"]/main/div/div[1]/h1
+10:10:18 INFO Test 3 starting
+10:10:18 INFO Click to element //*[@id="create-btn"]
+10:10:19 INFO Send U32U9 to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+10:10:19 INFO Send J1TNJ to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+10:10:19 INFO Send 3ENKR to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+10:10:19 INFO Click to element //*[@id="create-item"]/div/div/div[7]/div/button/span
+10:10:19 INFO We find U32U9 in tittle #app > main > div > div.container.svelte-tv8alb > h1
+10:10:19 INFO Test 4 starting
+10:10:19 INFO Click to element //*[@id="app"]/main/nav/ul/li[2]/a
+10:10:19 INFO Send Тестирую to element //*[@id="contact"]/div[1]/label/input
+10:10:20 INFO Send 112356525@mail.ru to element //*[@id="contact"]/div[2]/label/input
+10:10:20 INFO Send Здравствуйте to element //*[@id="contact"]/div[3]/label/span/textarea
+10:10:20 INFO Click to element //*[@id="contact"]/div[4]/button
+10:10:21 INFO We find Form successfully submitted in alert when click to //*[@id="contact"]/div[4]/button
+10:10:21 INFO Test 5 starting
+10:10:21 INFO We find LOGIN in error field //*[@id="login"]/div[3]/button
