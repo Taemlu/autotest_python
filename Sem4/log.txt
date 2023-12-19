@@ -1,0 +1,13 @@
+13:32:08 INFO Test_api_create_post starting
+13:32:11 INFO Test_api_find_post starting
+13:32:12 INFO ====== WebDriver manager ======
+13:32:13 INFO Get LATEST chromedriver version for google-chrome
+13:32:14 INFO Get LATEST chromedriver version for google-chrome
+13:32:14 INFO Driver [D:\Users\Танюлик\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+13:32:16 INFO Test_ui_auth_wrong starting
+13:32:20 INFO Test_ui_auth_successfully starting
+13:32:22 INFO Test_ui_create_post starting
+13:32:23 INFO Test_ui_contact_us starting
+13:32:24 INFO We find Form successfully submitted in alert when click to ('xpath', '//*[@id="contact"]/div[4]/button')
+13:32:24 INFO Test_iu_log_out starting
+13:32:25 INFO Logout completed
